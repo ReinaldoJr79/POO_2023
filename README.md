@@ -38,4 +38,4 @@ Segue abaixo o modelo do arquivo README.md.
 
 ## Notebook Teste - AtvTeste
 
-> Coloque um link para o arquivo do notebook com a resolução da atividade teste. Ela estará dentro da pasta `notebook`.
+> Coloque um link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb .
