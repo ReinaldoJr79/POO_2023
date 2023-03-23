@@ -1,7 +1,5 @@
 # Estrutura de Arquivos e Pastas
 
-A seguir é apresentada a estrutura de pastas esperada para entrega de laboratórios:
-
 ~~~
 ├── README.md  <- apresentação do aluno
 │
@@ -20,22 +18,18 @@ A seguir é apresentada a estrutura de pastas esperada para entrega de laborató
 
 Na raiz do repositório que você criou para a disciplina deve haver um arquivo com o nome `README.md` contendo a apresentação do aluno, bem como o link para o `notebook` da atividade.
 
-# Modelo para Apresentação do Aluno
-
-Segue abaixo o modelo do arquivo README.md.
-
-<hr>
-
-# Modelo para Apresentação do Aluno
+# Apresentação do Aluno
 
 # Aluno
 * `<Reinaldo Reche Junior>` 
 
 # Curso
 * `<2º Ano Tecnologia em Análise e Desenvolvimento de Sistemas>`
+* `<Disciplina - Programação Orientada a Objeto>`
+* `<Docente - Nelson Bellincanta Filho>`
 
 <hr>
 
 ## Notebook Teste - AtvTeste
 
-> Coloque um link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb .
+> Link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb .
