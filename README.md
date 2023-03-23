@@ -16,7 +16,6 @@
 └── Atv05      <- atividade 06
 ~~~
 
-Na raiz do repositório que você criou para a disciplina deve haver um arquivo com o nome `README.md` contendo a apresentação do aluno, bem como o link para o `notebook` da atividade.
 
 # Apresentação do Aluno
 
