@@ -5,9 +5,9 @@
 │
 ├── AtvTeste      <- atividade teste
 │
-├── Atv01      <- atividade 02
+├── Atv01      <- atividade 01
 │
-├── Atv02      <- atividade 03
+├── Atv02      <- atividade 02
 │
 ├── Atv03      <- atividade 04
 │
@@ -32,3 +32,4 @@
 ## Notebook Teste - AtvTeste
 
 > Link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb .
+> Link para o arquivo do notebook com a resolução da atividade 01. 
