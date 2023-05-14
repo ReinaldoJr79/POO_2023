@@ -3,7 +3,7 @@ Apresente a soma de todos os argumentos inteiros ou reais recebidos
 
 Códigos comentados aqui neste README
 
-import java.util.Scanner; // importação da classe Scanner
+import java.util.Scanner; 
 
 
 public class Atv01{
@@ -11,14 +11,14 @@ public class Atv01{
         
 
         Scanner s = new Scanner(System.in);
-        int soma = 0, i, y; // Declaração das variáveis
+        int soma = 0, i, y; 
 
             System.out.println("Dgite dois números inteiros: ");
             System.out.print("Digite o primeiro valor inteiro: ");
             i = s.nextInt();
             System.out.print("Digite o segundo valor inteiro: ");
             y = s.nextInt();
-            soma = i + y; // Equação a ser solucionada
+            soma = i + y; 
             System.out.println("O valor da soma é: " +soma); 
        
         s.close();
