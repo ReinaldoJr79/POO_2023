@@ -31,5 +31,5 @@
 
 ## Notebook Teste - AtvTeste
 
-> Link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb .
-> Link para o arquivo do notebook com a resolução da atividade 01. 
+> Link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb . <hr>
+> Link para o arquivo do notebook com a resolução da atividade 01. https://github.com/ReinaldoJr79/POO_2023/blob/main/Atv01/notebook/Atv01.ipynb
