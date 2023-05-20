@@ -3,7 +3,7 @@
 ~~~
 ├── README.md  <- apresentação do aluno
 │
-├── AtvTeste      <- atividade teste
+├── AtvTeste   <- atividade teste
 │
 ├── Atv01      <- atividade 01
 │
