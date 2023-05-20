@@ -11,9 +11,11 @@
 │
 ├── Atv03      <- atividade 03
 │
-├── Atv04      <- atividade 05
+├── Atv04      <- atividade 04
 │
-└── Atv05      <- atividade 06
+├── Atv05      <- atividade 05
+│
+└── Atv06      <- atividade 06
 ~~~
 
 
@@ -33,4 +35,5 @@
 
 > Link para o arquivo do notebook com a resolução da atividade teste. https://github.com/ReinaldoJr79/POO_2023/blob/main/AtvTeste/notebook/AtvTeste.ipynb . <br>
 > Link para o arquivo do notebook com a resolução da atividade 01. https://github.com/ReinaldoJr79/POO_2023/blob/main/Atv01/notebook/Atv01.ipynb <br>
-> Link para o arquivo do notebook com a resolução da atividade 02. https://github.com/ReinaldoJr79/POO_2023/blob/main/Atv02/notebook/Atv02.ipynb . <br>
+> Link para o arquivo do notebook com a resolução da atividade 02. https://github.com/ReinaldoJr79/POO_2023/blob/main/Atv02/notebook/Atv02.ipynb <br>
+> Link para o arquivo do notebook com a resolução da atividade 03. https://github.com/ReinaldoJr79/POO_2023/blob/main/Atv03/notebook/Atv03.ipynb <br>
